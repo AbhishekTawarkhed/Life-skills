@@ -3,10 +3,9 @@ Deep Work is the ability to focus without distraction on a cognitively demanding
 
 ## 2. How to do Deep Work properly 
 
-- **Set routines**
-- **Set time for unproductive tasks**
-- **Do not use social media often**
- 
+- Set routines
+- Set time for unproductive tasks
+- Do not use social media often
 
 ---
 
